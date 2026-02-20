@@ -35,3 +35,6 @@ Color palette: en esta opción podemos seleccionar una paleta de colores que
 se aplicará a nuestra imagen. Por defecto no está seleccionada, pero puede ser 
 interesante si queremos crear algunas imágenes con una gama de colores 
 determinada.
+
+<img width="1046" height="431" alt="image" src="https://github.com/user-attachments/assets/12e0d27e-4e17-4f81-a5c3-883f11b76627" />
+
