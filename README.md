@@ -1,4 +1,5 @@
-Ideogram. 
+
+                        Ideogram. 
 Es una de las primeras herramientas que permitió convertir el texto a imagen mediante 
 la inteligencia artificial y es reconocida por su plan gratuito y su facilidad de uso. 
 Aprovechando redes neuronales de aprendizaje profundo, Ideogram entiende la 
@@ -22,3 +23,15 @@ características visuales. El modelo de IA procesa esta entrada utilizando algor
 avanzados de aprendizaje profundo para interpretar la información textual. Luego 
 sintetiza una imagen acorde a la descripción, basándose en su conocimiento 
 aprendido sobre la relación imagen-texto. 
+Ideogram es una IA muy útil, ya que posee varias herramientas, por ejemplo: - - - 
+Magic prompt: cuando está activado, la IA de Ideogram mejorará el prompt que 
+introducimos para añadir variedad a las imágenes de salida. En teoría, también 
+traduce al inglés los prompts en otros idiomas, pero no funciona muy bien. 
+Aspect ratio: el formato de la imagen, vertical, cuadrado y horizontal. 
+Model: se trata del modelo de la IA que se usará. Por defecto, se aplicará en 
+último desarrollado. 
+-  
+Color palette: en esta opción podemos seleccionar una paleta de colores que 
+se aplicará a nuestra imagen. Por defecto no está seleccionada, pero puede ser 
+interesante si queremos crear algunas imágenes con una gama de colores 
+determinada.
