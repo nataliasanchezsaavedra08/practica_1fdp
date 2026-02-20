@@ -1,5 +1,6 @@
-
-<div align="Ideogram. ">
+<p align="center">
+  <strong>IDEOGRAM</strong><br>
+</p>
 Es una de las primeras herramientas que permitió convertir el texto a imagen mediante 
 la inteligencia artificial y es reconocida por su plan gratuito y su facilidad de uso. 
 Aprovechando redes neuronales de aprendizaje profundo, Ideogram entiende la 
