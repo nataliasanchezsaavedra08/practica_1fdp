@@ -37,4 +37,26 @@ interesante si queremos crear algunas imágenes con una gama de colores
 determinada.
 
 <img width="1046" height="431" alt="image" src="https://github.com/user-attachments/assets/12e0d27e-4e17-4f81-a5c3-883f11b76627" />
-
+Algunos usos que se le pueden dar son: 
+Campañas de Marketing 
+Creación de contenido para redes sociales 
+Materiales educativos 
+Generación de logotipos 
+Actualmente contiene 3 planes 
+Plan gratuito: Ofrece 12 créditos (2 créditos por imagen) y generación de 
+imágenes públicas y acceso a Canvas limitados 
+Plan Plus (15$USD/ mes): Ofrece generación de imágenes privadas, 1000 
+crédictos de prioridad al mes, créditos ilimitados, calidad de exportación 
+Plan Pro ($42USD/ mes): Ofrece lo mismo que el plan Plus, y además 3,500 
+créditos de prioridad al mes, adelantar la prioridad 250 lugares por 4$USD y la 
+más larga cola de generación de imágenes 
+Los usuarios deben prestar atención a las políticas de privacidad al utilizar Ideogram 
+IA. Con una cuenta gratuita, las imágenes generadas son públicas y no pueden 
+eliminarse de la plataforma. Esto significa que cualquier contenido creado es 
+accesible para otros usuarios, salvo que se genere de forma privada mediante una 
+suscripción de pago. 
+Se recomienda no introducir información sensible o personal en las indicaciones. Los 
+usuarios deben revisar la política de privacidad de Ideogram IA para entender cómo se 
+manejan los datos y asegurarse de estar conformes con los términos. La política indica 
+que, si bien se hacen esfuerzos para proteger los datos, no se puede garantizar una 
+seguridad absoluta.
