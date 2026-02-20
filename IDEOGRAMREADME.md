@@ -92,3 +92,17 @@ manejan los datos y asegurarse de estar conformes con los términos. La polític
 que, si bien se hacen esfuerzos para proteger los datos, no se puede garantizar una 
 seguridad absoluta.
   </p>
+
+  Referencias 
+  <p align="justify">
+  Profesor Productivo. (30  septiembre 2024). Ideogram: IA para generar imágenes 
+educativas.  https://profesorproductivo.com/blog/ideogram-ia-para
+generar-imagenes-educativas/ 
+     </p>
+       <p align="justify">
+FlowHunt. (s. f.). Ideogram IA. 
+https://www.flowhunt.io/es/glosario/ideogram/ 
+          </p>
+           <p align="justify">
+Ideogram. (s. f.).  https://ideogram.ai/
+    </p>
