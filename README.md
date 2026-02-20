@@ -83,6 +83,8 @@ IA. Con una cuenta gratuita, las imágenes generadas son públicas y no pueden
 eliminarse de la plataforma. Esto significa que cualquier contenido creado es 
 accesible para otros usuarios, salvo que se genere de forma privada mediante una 
 suscripción de pago. 
+<img width="733" height="415" alt="image" src="https://github.com/user-attachments/assets/46262724-80cd-4e37-8b4b-98df46c9cc05" />
+
  <p align="justify">
 Se recomienda no introducir información sensible o personal en las indicaciones. Los 
 usuarios deben revisar la política de privacidad de Ideogram IA para entender cómo se 
